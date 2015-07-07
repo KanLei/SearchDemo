@@ -80,9 +80,10 @@
   <ItemGroup>
     <Compile Include="Main.cs" />
     <Compile Include="AppDelegate.cs" />
-    <Compile Include="ColorTableViewController.cs" />
-    <Compile Include="ColorTableViewController.designer.cs">
-      <DependentUpon>ColorTableViewController.cs</DependentUpon>
+    <Compile Include="Fruit.cs" />
+    <Compile Include="FruitTableViewController.cs" />
+    <Compile Include="FruitTableViewController.designer.cs">
+      <DependentUpon>FruitTableViewController.cs</DependentUpon>
     </Compile>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />

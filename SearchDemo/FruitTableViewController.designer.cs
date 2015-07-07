@@ -11,8 +11,8 @@ using UIKit;
 
 namespace SearchDemo
 {
-	[Register ("ColorTableViewController")]
-	partial class ColorTableViewController
+	[Register ("FruitTableViewController")]
+	partial class FruitTableViewController
 	{
 		[Outlet]
 		[GeneratedCode ("iOS Designer", "1.0")]
